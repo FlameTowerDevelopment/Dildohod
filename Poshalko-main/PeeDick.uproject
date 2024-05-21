@@ -35,5 +35,9 @@
 				"TVOS"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
 	]
 }
