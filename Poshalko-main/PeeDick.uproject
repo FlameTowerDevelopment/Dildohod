@@ -47,7 +47,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SkeletalMeshModelingTools",
+			"Name": "OneSkyLocalizationService",
 			"Enabled": true
 		}
 	],
